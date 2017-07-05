@@ -1,0 +1,545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"va",
+				"var_sql_copy"
+			],
+			[
+				"rmcab_",
+				"rmcab_db_final"
+			],
+			[
+				"rmcab",
+				"rmcab_db_final"
+			],
+			[
+				"T_TEMPORAL_CSV_P",
+				"T_TEMPORAL_CSV_PRECIPITACION"
+			],
+			[
+				"T_TEMPORAL_CSV_PM",
+				"T_TEMPORAL_CSV_PM10"
+			],
+			[
+				"T_TEM",
+				"T_TEMPORAL_CSV_CO"
+			],
+			[
+				"T_",
+				"T_TEMPORAL_CSV_CO"
+			],
+			[
+				"SEN",
+				"send_estaciones_trigger"
+			],
+			[
+				"DIRECCION",
+				"DIRECCION"
+			],
+			[
+				"VALO",
+				"VALOR_MINIMO_MUESTRA"
+			],
+			[
+				"send",
+				"send_indicadores_trigger"
+			],
+			[
+				"INSE",
+				"insert_data_indicadores_temporal_to_indicadores_final"
+			],
+			[
+				"inse",
+				"insert_data_estaciones_temporal_to_estaciones_final"
+			],
+			[
+				"conver",
+				"convert_to_integer"
+			],
+			[
+				"p",
+				"postgres"
+			],
+			[
+				"C_",
+				"C_INDICADORES"
+			],
+			[
+				"sen",
+				"send_estaciones_trigger"
+			],
+			[
+				"VALOR",
+				"VALOR_MAXIMO_MUESTRA"
+			],
+			[
+				"id_",
+				"ID_INDICADOR"
+			],
+			[
+				"inser",
+				"insert_data_indicadoresTemporal_to_indicadoresFinal"
+			],
+			[
+				"NULL",
+				"NULLIF"
+			],
+			[
+				"SEND",
+				"send_indicadores_trigger"
+			],
+			[
+				"SEND_",
+				"send_estaciones_trigger"
+			],
+			[
+				"insert_data",
+				"insert_data_estacionesTemporal_to_estacionesFinal"
+			],
+			[
+				"valor",
+				"valor_minimo_muestra"
+			],
+			[
+				"lo",
+				"localidad"
+			],
+			[
+				"nombre",
+				"nombre_indicador"
+			],
+			[
+				"id_e",
+				"id_estacion"
+			],
+			[
+				"RMCAB_",
+				"RMCAB_DB_TEMP"
+			],
+			[
+				"RMCAB",
+				"RMCAB_DB_TEMP"
+			],
+			[
+				"RMCAB_DB",
+				"RMCAB_DB_FINAL"
+			],
+			[
+				"ID",
+				"ID_INDICADOR"
+			],
+			[
+				"ID_",
+				"ID_INDICADOR"
+			],
+			[
+				"t_",
+				"T_MEDICIONES_RMCAB"
+			],
+			[
+				"T_MED",
+				"T_MEDICIONES_RMCAB_KEY"
+			],
+			[
+				"T_T",
+				"T_TEMPORAL_CSV_SO2"
+			],
+			[
+				"T",
+				"T_TEMPORAL_CSV_CO"
+			],
+			[
+				"var",
+				"var_sql_alter"
+			],
+			[
+				"var_",
+				"var_sql_alter"
+			],
+			[
+				"var_sql",
+				"var_sql_copy"
+			],
+			[
+				"FIL",
+				"FILE_PATH"
+			],
+			[
+				"create_rm",
+				"create_rmcab_db_temp_functions_trigger"
+			],
+			[
+				"T_TEMPORA",
+				"T_TEMPORAL_CSV_NO2"
+			],
+			[
+				"T_PM",
+				"T_PM_10"
+			],
+			[
+				"PR",
+				"PRIMARY"
+			],
+			[
+				"XLS",
+				"XLSX"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ali",
+		"selected_items":
+		[
+			[
+				"ali",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/qiqemtz/Documents/Cursos/Python_Platzi"
+	],
+	"file_history":
+	[
+		"/Users/qiqemtz/Documents/Epidemiology/data/RIPS_HSUR/RIPS_ETL_scripts/create_epidemiology_db_views.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/rmcab_db_final_views.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/create_rmcab_db_temp.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/create_rmcab_db_final.sh",
+		"/Users/qiqemtz/Desktop/library(RPostgreSQL).R",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2012.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2013.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2014.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2015.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2016.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2017-Ene.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2011.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/t_temporal_csv_temperatura.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Data/CSV_FILES/_Temperatura_1h_2010.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2009.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/source/RScripts_Epidemiology_Rmcab/ETL_RMCAB_IRA.R",
+		"/Users/qiqemtz/Documents/Epidemiology/source/R/LA-CCI.R",
+		"/Users/qiqemtz/Documents/Epidemiology/source/R/CLAIB.R",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/create_rmcab_db_temp_functions_trigger.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/t_temporal_csv_so2.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/backup_rmcab_db.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/data/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/create_rmcab_db_final_functions_trigger.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/create_rmcab_db_temp_functions_trigger.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/Estaciones.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2009.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/TEST_Copying_From_One_DB_to_Another/t_temporal_csv_indicadores.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/t_final_csv_indicadores.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/t_final_csv_estaciones.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/TEST_Copying_From_One_DB_to_Another/t_temporal_csv_estaciones.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/create_rmcab_db_temp_structure.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/OUT_t_final_csv_indicadores.txt",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/t_temporal_csv_pm10.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/t_temporal_csv_pm25.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/create_rmcab_db_final_structure.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/create_rmcab_db_final.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/create_rmcab_db_temp.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/start_rmcab_dbs_creation_here.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2016.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2017-Ene.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2015.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2014.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2013.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2012.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2011.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/Temperatura_1h_2010.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/Precipitacion_24h_2009-2017-Ene.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/SO2_24h_2009-2017-Ene.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/PM2.5_24h_2009-2017-Ene.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/PM10_24h_2009-2017-Ene.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/NO2_24h_2009-2017-Ene.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/CO_24h_2009-2017-Ene.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Data/CSV_FILES/Indicadores.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/copy_tables_temp2final.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/TEST_Copying_From_One_DB_to_Another/create_rmcab_db_temp_functions_trigger.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/insert_rmcab_data_final.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/TEST_Copying_From_One_DB_to_Another/copy_tables.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/TEST_Copying_From_One_DB_to_Another/create_rmcab_db_final.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/TEST_Copying_From_One_DB_to_Another/create_rmcab_db_temp.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/TEST_Copying_From_One_DB_to_Another/create_rmcab_db_temp_structure.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/TEST_Copying_From_One_DB_to_Another/create_rmcab_db_final_structure.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/data/datos_HSur/RIPS_ETL_scripts/create_epidemiology_db_structure.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/TEST_Copying_From_One_DB_to_Another/start_rmcab_dbs_creation_here.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/TEST_Copying_From_One_DB_to_Another/insert_rmcab_data_temp.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/TEST_Copying_From_One_DB_to_Another/dblink.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/TEST_Copying_From_One_DB_to_Another/ERROR_t_temporal_csv_estaciones.txt",
+		"/Users/qiqemtz/Documents/Epidemiology/data/datos_HSur/RIPS_ETL_scripts/create_epidemiology_db.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/TEST_Copying_From_One_DB_to_Another/t_final_csv_indicadores.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/TEST_Copying_From_One_DB_to_Another/insert_rmcab_data_final.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/TEST_Copying_From_One_DB_to_Another/t_final_csv_estaciones.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/t_temporal_csv_co.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/t_temporal_csv_temperatura.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/t_temporal_csv_precipitacion.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/RMCAB_Scripts/Scripts_BD_RMCAB_Intermedia_Final/insert_rmcab_data_temp.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/create_rmcab_db_temp_functions_trigger.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/create_rmcab_db_final.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/create_rmcab_db_final_structure.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/t_final_csv_indicadores.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/t_final_csv_estaciones.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/create_rmcab_db_temp.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/insert_rmcab_data_final.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/create_rmcab_db_temp_structure.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/OLD_create_rmcab_db_temp_structure.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/create_rmcab_db_final_functions_trigger.sql",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/t_temporal_csv_no2.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/t_temporal_csv_pm10.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/t_temporal_csv_pm25.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/t_temporal_csv_precipitacion.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/t_temporal_csv_so2.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/t_temporal_csv_co.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/insert_rmcab_data_temp.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/t_temporal_csv_temperatura.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/data/datos_HSur/RIPS_ETL_scripts/traverse_directory.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/data/datos_HSur/RIPS_ETL_scripts/traverse_directory_AF.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/data/datos_HSur/RIPS_ETL_scripts/traverse_directory_AP.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/data/datos_HSur/RIPS_ETL_scripts/traverse_directory_AC.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/convertXLSX_2_CSV.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Scripts_BD_RMCAB_Intermedia/OLD_insert_rmcab_data_temp.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/data/datos_HSur/RIPS_ETL_scripts/traverse_directory_AM.sh",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/create_RMCAB_db.sh",
+		"/Users/qiqemtz/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/qiqemtz/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/qiqemtz/Library/Application Support/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+		"/Users/qiqemtz/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/qiqemtz/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/qiqemtz/Documents/Epidemiology/RMCAB/Pruebas_Scripts_RMCAB_ConversionCSV/Excels/200901.csv",
+		"/Users/qiqemtz/Documents/Epidemiology/data/datos_HSur/RIPS_ETL_scripts/backup_epidemiology_db_cod_tables.sh"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ira_daily",
+			"\"%Y/%m/%d\"",
+			"-KEN",
+			"ken.",
+			"-CAR",
+			"car.",
+			"15",
+			"();\n",
+			"insert_data_indicadoresTemporal_to_indicadoresFinal",
+			"insert_data_estacionesTemporal_to_estacionesFinal",
+			"\"",
+			"get_connec",
+			"°",
+			"insert_persona_dire",
+			"rmcab_db_temp",
+			"rmcab_db_final",
+			"test_rmcab_final",
+			"test_rmcab_temp",
+			"rmcab_db_temp",
+			"rmcab_db_final",
+			"FOREIG",
+			"convert_to",
+			"rmcab_db",
+			"10",
+			"_carvajal_sevillana",
+			"_bolivia",
+			"precipitacion",
+			"pm10",
+			"pm25",
+			"no2",
+			"so2",
+			"co",
+			"SO2",
+			"PRECIPITACION",
+			"PM10",
+			"PM25"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"%Y-%m-%d\"",
+			"-PTE",
+			"pte.",
+			"-KEN",
+			"ken.",
+			"50",
+			"insert_data_indicadores_temporal_to_indicadores_final",
+			"insert_data_estaciones_temporal_to_estaciones_final",
+			"",
+			"g",
+			"test_rmcab_temp",
+			"test_rmcab_final",
+			"rmcab_db_final",
+			"rmcab_db_temp",
+			"test_rmcab_temp",
+			"test_rmcab_final",
+			"15",
+			"20",
+			"",
+			"so2",
+			"precipitacion",
+			"precipitacon",
+			"pm10",
+			"pm25",
+			"no2",
+			"so2",
+			"TEMPERATURA",
+			"SO2",
+			"PRECIPITACION",
+			"PM10"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "python_platzi.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 530.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
