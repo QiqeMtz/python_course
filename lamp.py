@@ -1,7 +1,7 @@
 
 
 class Lamp:
-    _LAMPS = ['LAMP IS ON', 'LAMP IS OFF']
+    _LAMPS = ['LA LAMPARA ESTA ENCENDIDA', 'LA LAMPARA ESTA APAGADA']
 
     def __init__(self, is_turned_on):
         self._is_turned_on = is_turned_on
